@@ -1,0 +1,14 @@
+ div{
+     border:1px red solid;
+     color: blue;;
+     display: flex;
+     width: 30%;
+     height: 10%;
+ }
+ .wrap{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     border: 5px goldenrod;
+     
+ }

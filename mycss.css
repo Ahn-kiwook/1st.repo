@@ -1,0 +1,36 @@
+
+body{
+    background-color: chocolate;
+    color: cornflowerblue;
+    }
+
+    div{
+    display: inline-block;
+    width: 30%;
+    height: 50%;
+    border: darkkhaki 1px solid;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    /* margin: 5%; */
+    margin:100px 30px 10px 0;
+    padding: 30px;
+    overflow: scroll;
+
+    }
+#first{
+    background: red;
+}
+.makeclass{color: black;
+border: 4px;
+background-color: blue;}
+#you{color: burlywood;
+    border: 5px
+    ;}
+.back_class{
+    background-color: deeppink;
+    overflow: scroll}
+
+
+/* 이것은 박스의 스타일이었습니다 다중 지정 할 경우에는
+ctrl alt 를 눌린채 방향키로 내리면 지정이 됩니다 */
